@@ -1,47 +1,51 @@
 {
   "iPhone": {
     "iPhone 17 Pro Max": {
-      "storage_order": [
-        "2TB",
-        "1TB",
-        "512GB",
-        "256GB"
-      ],
+      "storage_order": ["2TB", "1TB", "512GB", "256GB"],
       "2TB": {
         "retail": 1999,
-        "lease_terms": [
-          12,
-          24
-        ],
+        "lease_terms": [12, 24],
         "monthly_12": 83.35,
         "monthly_24": 58.34
       },
       "1TB": {
         "retail": 1599,
-        "lease_terms": [
-          12,
-          24
-        ],
+        "lease_terms": [12, 24],
         "monthly_12": 66.67,
         "monthly_24": 46.67
       },
       "512GB": {
         "retail": 1399,
-        "lease_terms": [
-          12,
-          24
-        ],
+        "lease_terms": [12, 24],
         "monthly_12": 58.33,
         "monthly_24": 40.83
       },
       "256GB": {
         "retail": 1199,
-        "lease_terms": [
-          12,
-          24
-        ],
+        "lease_terms": [12, 24],
         "monthly_12": 49.99,
         "monthly_24": 34.99
+      }
+    },
+    "iPhone 17 Pro": {
+      "storage_order": ["1TB", "512GB", "256GB"],
+      "1TB": {
+        "retail": 1499,
+        "lease_terms": [12, 24],
+        "monthly_12": 62.73,
+        "monthly_24": 43.64
+      },
+      "512GB": {
+        "retail": 1299,
+        "lease_terms": [12, 24],
+        "monthly_12": 54.36,
+        "monthly_24": 37.82
+      },
+      "256GB": {
+        "retail": 1099,
+        "lease_terms": [12, 24],
+        "monthly_12": 45.99,
+        "monthly_24": 31.99
       }
     }
   }
