@@ -1,4 +1,4 @@
-# Apple Upgrade Buyout Estimate
+# Apple Upgrade Calculator
 
 I’m building this shortcut to help team members answer a common question: “How much would it cost to keep this device?” It estimates the buyout for a U.S. Apple Upgrade lease through Klarna.
 
