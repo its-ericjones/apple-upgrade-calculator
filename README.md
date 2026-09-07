@@ -10,7 +10,7 @@ I started with iPhone 17 Pro Max to test the process before adding more devices.
 
 Here’s what it can do so far:
 
-- Offers all four Pro Max storage sizes and both 12- and 24-month lease terms.
+- Offers all four Pro Max storage sizes and both 12-month and 24-month lease terms.
 - Runs with pricing saved inside the shortcut, so team members don’t need a separate iCloud file.
 - Shows storage sizes in a set order and reads the available lease terms from the pricing data.
 - Calculates an estimate at the end of the lease or after a selected number of payments.
