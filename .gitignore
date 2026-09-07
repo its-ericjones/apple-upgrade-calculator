@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+._*
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Local captures can contain session or customer information
+work/
+private/
+captures/
+*.har
+
+# Editor and runtime files
+.vscode/
+.idea/
+__pycache__/
+*.py[cod]
+node_modules/
+*.log
